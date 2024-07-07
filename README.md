@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  💜 Doações:
-     <strong>Bitcoin: bc1q0yn3drnrmx3ggfhvy62wf7rznve45y7kdcu93w</strong>
+  💜 Doações:<br>
+     <strong>Bitcoin: bc1q0yn3drnrmx3ggfhvy62wf7rznve45y7kdcu93w</strong><br>
      <strong>Pix: N/A</strong>
 </p>
   
