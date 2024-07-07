@@ -18,6 +18,12 @@
 </p>
 
 <p align="left">
+  💜 Doações:
+     <strong>Bitcoin: bc1q0yn3drnrmx3ggfhvy62wf7rznve45y7kdcu93w
+     Pix: N/A</strong>
+</p>
+  
+<p align="left">
   💌 Para entrar em contato comigo, use as plataformas abaixo: ⤵️
 </p>
 
